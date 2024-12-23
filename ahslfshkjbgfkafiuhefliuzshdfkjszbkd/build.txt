@@ -1,0 +1,3 @@
+displayName = Gambling Class
+author = A chicken
+version = 1.325

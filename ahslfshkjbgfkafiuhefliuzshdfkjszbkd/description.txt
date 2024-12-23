@@ -1,0 +1,8 @@
+This mod adds a new damage class. Every tick, damage bonuses from this class is multiplied by a random value between 2 and -1.
+Mod includes:
+    2 new stats:
+        Gambit: increases the maximum multiplier by 2 while decreasing the minimum by 1.
+        Foresight: increases the minimum multiplier by 1.
+    10 weapons
+    4 armor sets
+    7 accessories

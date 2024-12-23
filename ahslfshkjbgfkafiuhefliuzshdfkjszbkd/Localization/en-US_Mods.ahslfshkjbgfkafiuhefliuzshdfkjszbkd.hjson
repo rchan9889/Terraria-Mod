@@ -1,0 +1,266 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	PlayingCard: {
+		DisplayName: Playing Card
+		Tooltip: "'Good for poker'"
+	}
+
+	AllOrNothing: {
+		DisplayName: Ring of the High Roller
+		Tooltip: Every attack is either maximum damage or nothing
+	}
+
+	GamblerEmblem: {
+		DisplayName: Gambler Emblem
+		Tooltip: 15% increased gambling damage
+	}
+
+	MagicCard: {
+		DisplayName: Magic Card
+		Tooltip: ""
+	}
+
+	GamblersRing1: {
+		DisplayName: Gambler's Ring
+		Tooltip:
+			'''
+			1 Gambit
+			10% increased gambling damage
+			'''
+	}
+
+	BirdsEye: {
+		DisplayName: Bird's Eye
+		Tooltip:
+			'''
+			1 Foresight
+			10% increased gambling damage
+			'''
+	}
+
+	MagicDeck: {
+		DisplayName: Magic Deck
+		Tooltip: ""
+	}
+
+	InfernoDeck: {
+		DisplayName: Inferno Deck
+		Tooltip: "'Bomba!'"
+	}
+
+	CursedInfernoDeck: {
+		DisplayName: Cursed Inferno Deck
+		Tooltip: ""
+	}
+
+	GoldenInfernoDeck: {
+		DisplayName: Golden Inferno Deck
+		Tooltip: "'Jarate!'"
+	}
+
+	HallowedDeck: {
+		DisplayName: Hallowed Deck
+		Tooltip:
+			'''
+			Randomly fires one of three cards.
+			Red explodes.
+			Gold confuses.
+			Blue heals.
+			'What a strange Twist of Fate'
+			'''
+	}
+
+	SporeDeck: {
+		DisplayName: Spore Deck
+		Tooltip: Summons five spores that chase nearby enemies.
+	}
+
+	PrismaticDeck: {
+		DisplayName: Prismatic Deck
+		Tooltip: Fires a powerful laser!
+	}
+
+	CelestialDeck: {
+		DisplayName: Celestial Deck
+		Tooltip: Contains the power of each of the celestial pillars!
+	}
+
+	ArtificialEye: {
+		DisplayName: Artificial Eye
+		Tooltip:
+			'''
+			2 Foresight
+			5% increased gambling damage
+			'''
+	}
+
+	GamblersRing2: {
+		DisplayName: Fisherman's Lucky Ring
+		Tooltip:
+			'''
+			2 Gambit
+			5% increased gambling damage
+			'Wasn't lucky enough apparently'
+			'''
+	}
+
+	SeersEye: {
+		DisplayName: Seer's Eye
+		Tooltip: Doubles the the minimum damage of every attack
+	}
+
+	Tuxedo1Hat: {
+		DisplayName: Normal Top Hat
+		Tooltip: 4% increased gambling damage
+	}
+
+	Tuxedo1Pants: {
+		DisplayName: Normal Tuxedo Pants
+		Tooltip: 5% increased gambling damage
+	}
+
+	Tuxedo1Shirt: {
+		DisplayName: Normal Tuxedo Suit
+		Tooltip: 6% increased gambling damage
+	}
+
+	Tuxedo2Hat: {
+		DisplayName: Gambling Addict's Top Hat
+		Tooltip: 8% increased gambling damage
+	}
+
+	Tuxedo2Pants: {
+		DisplayName: Gambling Addict's Tuxedo Pants
+		Tooltip: 9% increased gambling damage
+	}
+
+	Tuxedo2Shirt: {
+		DisplayName: Gambling Addict's Tuxedo Suit
+		Tooltip: 10% increased gambling damage
+	}
+
+	Tuxedo3Hat: {
+		DisplayName: Chronic Gambler's Top Hat
+		Tooltip:
+			'''
+			8% increased gambling critical strike chance
+			max life increased by 10
+			'''
+	}
+
+	Tuxedo3Pants: {
+		DisplayName: Chronic Gambler's Tuxedo Pants
+		Tooltip:
+			'''
+			7% increased gambling critical strike chance
+			10% increased movement speed
+			'''
+	}
+
+	Tuxedo3Shirt: {
+		DisplayName: Chronic Gambler's Tuxedo Suit
+		Tooltip:
+			'''
+			5% increased gambling critical strike chance
+			max life increased by 15
+			'''
+	}
+
+	Tuxedo4Hat: {
+		DisplayName: Reformed Gambler's Top Hat
+		Tooltip:
+			'''
+			8% increased gambling critical strike chance
+			6% increased gambling damage
+			'''
+	}
+
+	Tuxedo4Pants: {
+		DisplayName: Reformed Gambler's Tuxedo Pants
+		Tooltip:
+			'''
+			7% increased gambling critical strike chance
+			10% increased movement speed
+			8% increased gambling damage
+			'''
+	}
+
+	Tuxedo4Shirt: {
+		DisplayName: Reformed Gambler's Tuxedo Suit
+		Tooltip:
+			'''
+			5% increase gambling critical strike chance
+			max life increased by 50
+			10% increased gambling damage
+			'''
+	}
+}
+
+DamageClasses.RandomizedDamageClass.DisplayName: Randomized Damage Class
+
+Projectiles: {
+	BasicProjectile.DisplayName: Basic Projectile
+	MagicCardProjectile.DisplayName: Magic Card Projectile
+	InfernoDeckProjectile.DisplayName: Inferno Deck Projectile
+	CursedInfernoDeckProjectile.DisplayName: Cursed Inferno Deck Projectile
+	GoldenInfernoDeckProjectile.DisplayName: Golden Inferno Deck Projectile
+	HallowedBlue.DisplayName: Hallowed Blue
+	HallowedGold.DisplayName: Hallowed Gold
+	HallowedRed.DisplayName: Hallowed Red
+	SporeDeckProjectile.DisplayName: Spore Deck Projectile
+	Spore1.DisplayName: Spore1
+	Spore2.DisplayName: Spore2
+	PrismaticDeckProjectile.DisplayName: Prismatic Deck Projectile
+	PrismaticRed.DisplayName: Prismatic Red
+	PrismaticBlue.DisplayName: Prismatic Blue
+	PrismaticCyan.DisplayName: Prismatic Cyan
+	PrismaticGreen.DisplayName: Prismatic Green
+	PrismaticPurple.DisplayName: Prismatic Purple
+	PrismaticYellow.DisplayName: Prismatic Yellow
+	Solar.DisplayName: Solar
+	SolarExplosion.DisplayName: Solar Explosion
+	Nebula.DisplayName: Nebula
+	NebulaLightning.DisplayName: Nebula Lightning
+	Vortex.DisplayName: Vortex
+	VortexFrag.DisplayName: Vortex Frag
+	Stardust.DisplayName: Stardust
+}
+
+Prefixes: {
+	Fortunate.DisplayName: Fortunate
+	Aerodynamic.DisplayName: Aerodynamic
+	Bent.DisplayName: Bent
+	Fated.DisplayName: Fated
+	Floppy.DisplayName: Floppy
+	Risky.DisplayName: Risky
+	Swift.DisplayName: Swift
+	Unlucky.DisplayName: Unlucky
+}
+
+Buffs: {
+	NebulaChain: {
+		DisplayName: Nebula Chain
+		Description: Mods.ahslfshkjbgfkafiuhefliuzshdfkjszbkd.Buffs.NebulaChain.Description
+	}
+
+	StardustDragon: {
+		DisplayName: Stardust Dragon
+		Description: The Stardust Dragon fights for you!
+	}
+
+	BloodSacrificeBuff: {
+		DisplayName: Blood Sacrifice Buff
+		Description: Mods.ahslfshkjbgfkafiuhefliuzshdfkjszbkd.Buffs.BloodSacrificeBuff.Description
+	}
+
+	StatGambleBuff: {
+		DisplayName: Stat Gamble Buff
+		Description: Mods.ahslfshkjbgfkafiuhefliuzshdfkjszbkd.Buffs.StatGambleBuff.Description
+	}
+}
+
+Keybinds: {
+	"Blood Sacrifice.DisplayName": Blood  Sacrifice
+	"Gamble Stats.DisplayName": Gamble  Stats
+}
